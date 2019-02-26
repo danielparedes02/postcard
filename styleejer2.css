@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.titulo{
+	margin: 70px 20px 20px 120px;
+	width: 700px;
+	font-family: batang;
+	font-size: 26px;
+}
+
+.cabecera{ 
+	margin-left: 750px;
+	margin-top: -100px;
+	width: 50px;
+}
+
+.parrafo{
+	width: 600px;
+	margin: 20px 20px 20px 100px;
+	font-family: century;
+	font-size: 16px;
+	line-height: 25px;
+	text-align: justify;
+}
+
+#formulario{
+	width: 500px;
+	margin: -215px 20px 20px 710px;
+	line-height: 28px;
+	border: none;
+}
+
+.boton{
+	margin: 170px 20px 40px 450px;
+	border-radius:10px;
+	outline: 0;
+	border: 0;
+}
+
+.input{
+	border: none;
+	border-bottom: 30px;
+}
+
+.linea{
+	width: 200px;
+}
